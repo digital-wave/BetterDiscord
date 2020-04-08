@@ -1,6 +1,6 @@
 # MassMover
 # Download
-https://raw.githubusercontent.com/digital-wave/digital-wave/master/Plugins/MassMover/MassMover.plugin.js
+https://raw.githubusercontent.com/digital-wave/BetterDiscord/master/Plugins/MassMover/MassMover.plugin.js
 # Setup
 Active to block abuse other users to move you
 ![](https://i.imgur.com/QANCiPz.png)
